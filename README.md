@@ -1,4 +1,4 @@
-# Disrupt Quant — 2026 Quantitative Research Challenge
+# Disrupt Quant — 2026 Quantitative  Challenge
 
 Markets rarely tell you which variables matter, which relationships will persist, or whether a pattern represents genuine structure rather than noise. Approach this unfamiliar multi-asset market as a quantitative researcher: develop a systematic strategy supported by evidence, disciplined validation, and sound risk management.
 
