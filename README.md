@@ -1,4 +1,4 @@
-# E[X] Quant — 2026 Quantitative Research Challenge
+# Disrupt Quant — 2026 Quantitative Research Challenge
 
 Markets rarely tell you which variables matter, which relationships will persist, or whether a pattern represents genuine structure rather than noise. Approach this unfamiliar multi-asset market as a quantitative researcher: develop a systematic strategy supported by evidence, disciplined validation, and sound risk management.
 
@@ -14,7 +14,7 @@ Use Python 3.12 or 3.13; the evaluation environment uses Python 3.13. No GPU or 
 ```bash
 # Clone the challenge repository using the URL in your invitation,
 # or unzip the supplied candidate archive and enter its directory.
-cd EX_Quant_2026_Challenge
+cd Disrupt_Quant_2026_Challenge
 python -m venv .venv
 source .venv/bin/activate
 # Windows PowerShell: .venv\Scripts\Activate.ps1

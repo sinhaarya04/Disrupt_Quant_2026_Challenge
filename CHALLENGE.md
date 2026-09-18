@@ -30,7 +30,7 @@ The schedule is guidance, not a time-tracking requirement. One thoughtful idea i
 
 ## What to submit
 
-A private GitHub repository named `ex-quant-2026-firstname-lastname` containing:
+A private GitHub repository named `disrupt-quant-2026-firstname-lastname` containing:
 
 ```text
 strategy.py          # required entry point

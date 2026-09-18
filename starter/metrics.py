@@ -52,7 +52,7 @@ def plot_results(daily, path):
         for ax, value, title in zip(axes.flat, values, titles):
             ax.plot(value.index, value, color='#174c67', lw=1.2)
             ax.set_title(title, loc='left', fontsize=11)
-        fig.suptitle('E[X] Quant | Strategy diagnostics', fontsize=17, x=.07, ha='left')
+        fig.suptitle('Disrupt Quant | Strategy diagnostics', fontsize=17, x=.07, ha='left')
         fig.tight_layout(rect=(0, 0, 1, .96))
         fig.savefig(path, dpi=150)
         plt.close(fig)

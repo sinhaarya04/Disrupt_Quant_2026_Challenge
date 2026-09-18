@@ -1,1 +1,1 @@
-"""Official E[X] Quant research tools."""
+"""Official Disrupt Quant research tools."""
